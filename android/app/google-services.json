@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087351581141",
+    "project_id": "fortune-app-7b0b5",
+    "storage_bucket": "fortune-app-7b0b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087351581141:android:7745465de4a0ba40c0755c",
+        "android_client_info": {
+          "package_name": "com.fortunenow.fortunenow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq0O2HrdS9l6j0mvxavOl6Wm5r8W8Qzqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

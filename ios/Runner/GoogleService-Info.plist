@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyB23Ewt-aFC2mCzvsaqqhFp72UqHOb0fH8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1087351581141</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fortunenow.fortunenow</string>
+	<key>PROJECT_ID</key>
+	<string>fortune-app-7b0b5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fortune-app-7b0b5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1087351581141:ios:2dfa2bcd0d11af4dc0755c</string>
+</dict>
+</plist>
